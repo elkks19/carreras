@@ -1,0 +1,44 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de compilación específicos de Visual Studio
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos de Unity generados automáticamente
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+
+# Archivos de Unity generados para versiones específicas de compilación
+*.apk
+*.aab
+*.unitypackage
+
+# Archivos de metadatos de Unity
+/[Aa]ssets/**/*.meta
+
+# Archivos de configuración específicos del sistema
+[Tt]exture[Pp]acker/
+.idea/
